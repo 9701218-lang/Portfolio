@@ -12,5 +12,5 @@ Detailed description.
 * [MacOS]()
 * [SourceCode]()
 
-![<img width="530" height="341" alt="image" src="https://github.com/user-attachments/assets/28bbfdab-26ab-48fb-954e-f2d2c67e5209" />
+![<img width="530" height="341" alt="image" src="https://github.com/user-attachments/assets/2c41a28d-2fb5-4f4d-ab34-a536f6cef7b8" />
 ]
